@@ -33,6 +33,10 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 ## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
 
+
+## 🙂➾ [Then Deploy The Bot From Here](https://koyeb.com/deploy)
+
+
 <p align="center">
 
 <img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
