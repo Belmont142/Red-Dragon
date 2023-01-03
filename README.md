@@ -34,7 +34,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 
 
-## 🙂➾ [Then Deploy The Bot From Here](https://koyeb.com/deploy)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Belmont142/Red-Dragon?organization=Belmont142&organization=Belmont142&branch=main&name=belmont123)
 
 
 <p align="center">
